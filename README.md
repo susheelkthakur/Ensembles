@@ -3,5 +3,5 @@ Ensemble Techniques - Random Forest, Bagging &amp; Boosting ( AdaBoost &amp; Gra
 
 Dataset used is Credit history data from archives of ics.uci.edu (german credit data)
 
-#All the models need hypertining so that performance can be imporved.
-#this is done to just describe - how to implement ensembles
+All the models need hypertuning so that the performance can be imporved.
+This is done to just describe - how to implement ensembles.
